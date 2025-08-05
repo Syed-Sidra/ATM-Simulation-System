@@ -49,7 +49,7 @@ SQL Queries & Database Management
 
 ----------------------------------------
 
-🌟 Acknowledgments
+##🌟 Acknowledgments
 This project was developed as part of my learning journey in Java development. Special thanks to online tutorials, mentors, and documentation that supported the process.
 
 JDBC Connectivity
