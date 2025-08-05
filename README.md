@@ -50,6 +50,7 @@ SQL Queries & Database Management
 JDBC Connectivity
 
 User Input Validation & Exception Handling
+
 ----------------------------------------
 
 ##🌟 Acknowledgments
